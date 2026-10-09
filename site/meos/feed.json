@@ -1,9 +1,19 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 1,
-  "issued_at": "1970-01-01T00:00:00Z",
-  "expires_at": "1970-01-01T00:00:00Z",
-  "rings": {},
+  "sequence": 2,
+  "issued_at": "2026-10-09T01:12:36Z",
+  "expires_at": "2026-10-23T01:12:36Z",
+  "rings": {
+    "ring0": {
+      "version": "20261012",
+      "package": "https://updates.makrydensystems.com/meos/p/de7bd9e1b80b3fc85207d1c6/meos-20261012.meosupdate",
+      "sha256": "54e5844a61e298664e124a0728b520667dfd2f25c58c5d44de1e1b5221728b29",
+      "size": 22019,
+      "min_from_version": "20261011w",
+      "notes": "Workspaces, window tiling, Rouge approval cards, and working Restart / Power Off.",
+      "rollout_percent": 100
+    }
+  },
   "revoked": []
 }

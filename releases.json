@@ -1,1 +1,15 @@
-{"releases": []}
+{
+  "releases": [
+    {
+      "version": "20261012",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/de7bd9e1b80b3fc85207d1c6/meos-20261012.meosupdate",
+      "min_from_version": "20261011w",
+      "release_notes": "Workspaces, window tiling, Rouge approval cards, and working Restart / Power Off.",
+      "notes": "Operator Console phase 2, part 2. Workspaces: Operations / Build / Personal \u2014 switch from the top bar, the rail dots, or Ctrl+Alt+1/2/3 (Ctrl+Alt+Left/Right cycles). Each workspace keeps its own windows; opening an app that lives elsewhere brings it here. Tiling: Ctrl+Alt+T or the tile button arranges this workspace's windows (1 full, 2 side by side, 3 = main + two stacked, more = grid). Approvals: when Rouge asks to run a command, an 'Approval needed' card appears in Rouge's chat with Approve once / Deny, a gold count on the Rouge rail button and a toast. Approve still runs only through the governed, allowlisted terminal. Backend adds POST /api/terminal/reject. Power: Restart and Power Off in the MEOS menu now really work (POST /api/system/restart|poweroff via logind; one-time polkit setup with meos-power-setup) and show a shutdown screen. Crash records: a machine that was switched off (UTM Stop) is now recorded as power-loss, not a Rouge crash; a refused start (port in use) no longer leaves a false crash behind.",
+      "public": false,
+      "published_at": "2026-10-09T01:12:41Z"
+    }
+  ]
+}
