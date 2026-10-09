@@ -10,6 +10,17 @@
       "notes": "Operator Console phase 2, part 2. Workspaces: Operations / Build / Personal \u2014 switch from the top bar, the rail dots, or Ctrl+Alt+1/2/3 (Ctrl+Alt+Left/Right cycles). Each workspace keeps its own windows; opening an app that lives elsewhere brings it here. Tiling: Ctrl+Alt+T or the tile button arranges this workspace's windows (1 full, 2 side by side, 3 = main + two stacked, more = grid). Approvals: when Rouge asks to run a command, an 'Approval needed' card appears in Rouge's chat with Approve once / Deny, a gold count on the Rouge rail button and a toast. Approve still runs only through the governed, allowlisted terminal. Backend adds POST /api/terminal/reject. Power: Restart and Power Off in the MEOS menu now really work (POST /api/system/restart|poweroff via logind; one-time polkit setup with meos-power-setup) and show a shutdown screen. Crash records: a machine that was switched off (UTM Stop) is now recorded as power-loss, not a Rouge crash; a refused start (port in use) no longer leaves a false crash behind.",
       "public": false,
       "published_at": "2026-10-09T01:12:41Z"
+    },
+    {
+      "version": "20261013",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/0af288d57bcc737a0e306f4e/meos-20261013.meosupdate",
+      "min_from_version": "20261012",
+      "release_notes": "New Settings app, Files and My Work fixes, readable ticker, backup market quotes, Wolverine WebRTC shield.",
+      "notes": "New Settings app laid out like macOS/Windows: General, Appearance (auto-hide bars, ticker, watchlist), Workspaces & Keyboard (the shortcut manual), Software Update, Privacy & Security (CADE key), Power, About. Keyboard hints removed from the empty desktop. Files: opening a folder inside a folder works (fixes HTTP 400 state/state). My Work opens again (backend now provides waiting_on_me, including Rouge's held commands). Ticker labels read like English (Club members 10, Pending reviews 0). Market quotes fall back to Yahoo Finance's public chart data when Stooq is unreachable. StarBrook: Wolverine WebRTC IP shield on by default (no STUN to Google/Cloudflare; pages can't read your public IP) with a switch in StarBrook Settings; restart StarBrook to apply.",
+      "public": false,
+      "published_at": "2026-10-09T01:34:43Z"
     }
   ]
 }
