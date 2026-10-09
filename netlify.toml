@@ -1,0 +1,27 @@
+# Makryden Release Hub — updates.makrydensystems.com
+# Static site, no build step. The edge function gates the MEOS feed behind
+# a bearer token (Netlify env var MEOS_FEED_TOKEN). Packages live under an
+# unguessable path that only the gated feed reveals.
+[build]
+  publish = "site"
+  command = ""
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "no-referrer"
+    X-Frame-Options = "DENY"
+    Content-Security-Policy = "default-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; base-uri 'none'; form-action 'none'"
+
+[[headers]]
+  for = "/meos/*"
+  [headers.values]
+    Cache-Control = "no-store"
+    X-Robots-Tag = "noindex, nofollow"
+
+[[headers]]
+  for = "/changelog.json"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Cache-Control = "public, max-age=300"

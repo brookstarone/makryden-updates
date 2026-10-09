@@ -1,0 +1,4 @@
+.feed-token
+.DS_Store
+*.tmp.*
+*.allowed_signers.*
