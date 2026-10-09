@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 3,
-  "issued_at": "2026-10-09T01:34:38Z",
-  "expires_at": "2026-10-23T01:34:38Z",
+  "sequence": 4,
+  "issued_at": "2026-10-09T02:16:19Z",
+  "expires_at": "2026-10-23T02:16:19Z",
   "rings": {
     "ring0": {
-      "version": "20261013",
-      "package": "https://updates.makrydensystems.com/meos/p/0af288d57bcc737a0e306f4e/meos-20261013.meosupdate",
-      "sha256": "e23f354bfa0e67da7e0a7e238e587660a5565aa21ba8d4bbda705b4f8d482822",
-      "size": 40620,
-      "min_from_version": "20261012",
-      "notes": "New Settings app, Files and My Work fixes, readable ticker, backup market quotes, Wolverine WebRTC shield.",
+      "version": "20261014",
+      "package": "https://updates.makrydensystems.com/meos/p/92ab7fdde96a65ed2e837f32/meos-20261014.meosupdate",
+      "sha256": "fa2c3b1281c7bf4fe2cc3b4e62bf1ecf4e8f57c675e8b02c06e9a21faf08c420",
+      "size": 31537,
+      "min_from_version": "20261013",
+      "notes": "Rouge thinks with your Azure model and uses MEOS tools, with your approval for changes.",
       "rollout_percent": 100
     }
   },

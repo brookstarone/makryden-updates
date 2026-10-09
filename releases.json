@@ -21,6 +21,17 @@
       "notes": "New Settings app laid out like macOS/Windows: General, Appearance (auto-hide bars, ticker, watchlist), Workspaces & Keyboard (the shortcut manual), Software Update, Privacy & Security (CADE key), Power, About. Keyboard hints removed from the empty desktop. Files: opening a folder inside a folder works (fixes HTTP 400 state/state). My Work opens again (backend now provides waiting_on_me, including Rouge's held commands). Ticker labels read like English (Club members 10, Pending reviews 0). Market quotes fall back to Yahoo Finance's public chart data when Stooq is unreachable. StarBrook: Wolverine WebRTC IP shield on by default (no STUN to Google/Cloudflare; pages can't read your public IP) with a switch in StarBrook Settings; restart StarBrook to apply.",
       "public": false,
       "published_at": "2026-10-09T01:34:43Z"
+    },
+    {
+      "version": "20261014",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/92ab7fdde96a65ed2e837f32/meos-20261014.meosupdate",
+      "min_from_version": "20261013",
+      "release_notes": "Rouge thinks with your Azure model and uses MEOS tools, with your approval for changes.",
+      "notes": "Phase 4, part 1: Rouge's brain. Chat with Rouge now thinks with the owner's Azure model (Responses API, deployment cade-gpt56-sol by default) when connected in Settings > Privacy & Security > Rouge's brain. MEOS runs Rouge's tools locally: machine_status, list_files, read_file, list_tasks, business_stats, list_recipes answer immediately; run_command is HELD as an Approve once / Deny card and never runs on its own; write_file and start_recipe report that they arrive in a later update. The API key is stored in /etc/meos/secrets/brain.env (0600), never logged or shown. Without a key Rouge keeps its local answers. Also: My Work and Approvals counts no longer read 'undefined'; Software Update no longer shows a stale 'restart to apply' after an update is installed.",
+      "public": false,
+      "published_at": "2026-10-09T02:16:23Z"
     }
   ]
 }
