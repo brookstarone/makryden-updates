@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 4,
-  "issued_at": "2026-10-09T02:16:19Z",
-  "expires_at": "2026-10-23T02:16:19Z",
+  "sequence": 5,
+  "issued_at": "2026-10-09T02:43:41Z",
+  "expires_at": "2026-10-23T02:43:41Z",
   "rings": {
     "ring0": {
-      "version": "20261014",
-      "package": "https://updates.makrydensystems.com/meos/p/92ab7fdde96a65ed2e837f32/meos-20261014.meosupdate",
-      "sha256": "fa2c3b1281c7bf4fe2cc3b4e62bf1ecf4e8f57c675e8b02c06e9a21faf08c420",
-      "size": 31537,
-      "min_from_version": "20261013",
-      "notes": "Rouge thinks with your Azure model and uses MEOS tools, with your approval for changes.",
+      "version": "20261015",
+      "package": "https://updates.makrydensystems.com/meos/p/7030d40c8a211029a0b8987d/meos-20261015.meosupdate",
+      "sha256": "2b0ea2587cb4b887527cc07a763492efbc3cb3103c489af42bd493a256383b53",
+      "size": 26063,
+      "min_from_version": "20261014",
+      "notes": "Approvals now show their result and Rouge reports back; Rouge's replies are formatted.",
       "rollout_percent": 100
     }
   },
