@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 5,
-  "issued_at": "2026-10-09T02:43:41Z",
-  "expires_at": "2026-10-23T02:43:41Z",
+  "sequence": 8,
+  "issued_at": "2026-10-10T02:33:10Z",
+  "expires_at": "2026-10-24T02:33:10Z",
   "rings": {
     "ring0": {
-      "version": "20261015",
-      "package": "https://updates.makrydensystems.com/meos/p/7030d40c8a211029a0b8987d/meos-20261015.meosupdate",
-      "sha256": "2b0ea2587cb4b887527cc07a763492efbc3cb3103c489af42bd493a256383b53",
-      "size": 26063,
-      "min_from_version": "20261014",
-      "notes": "Approvals now show their result and Rouge reports back; Rouge's replies are formatted.",
+      "version": "20261018",
+      "package": "https://updates.makrydensystems.com/meos/p/0e015958438ad2ed08fbbd86/meos-20261018.meosupdate",
+      "sha256": "c1d354fcfd58f96ef1e4d5e1f8d5c7372420e07f06f8c8f3b26ad28fe65f1d0f",
+      "size": 8455,
+      "min_from_version": "20261017",
+      "notes": "Themes: 6 visual themes with instant switching in Settings \u2192 Appearance.",
       "rollout_percent": 100
     }
   },

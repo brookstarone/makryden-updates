@@ -43,6 +43,39 @@
       "notes": "Rouge approvals report back. After Approve once (or Deny) on a card Rouge asked for, the card shows 'Approved \u2014 running\u2026' and then the real terminal output, and Rouge is told the result and reports it in the chat. Cards decided somewhere else stop showing buttons. The Rouge chat now keeps its conversation if the window is redrawn. Rouge replies render lists, bold and code instead of raw asterisks. UI only; the backend is unchanged.",
       "public": false,
       "published_at": "2026-10-09T02:43:46Z"
+    },
+    {
+      "version": "20261016",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/3a68caac0a23decc2f320922/meos-20261016.meosupdate",
+      "min_from_version": "20261015",
+      "release_notes": "Builders layer: Rouge can now write files (governed), run recipes, and accept uploads. Recipe runs are tracked for the Assembly Floor.",
+      "notes": "Wires the Phase 4 builders into Rouge's brain: write_file (safe roots write immediately, others held for approval, system paths refused), start_recipe (pausable/resumable, tracked in the floor registry), read_upload, and list_recipes pointed at the on-disk registry. Adds POST /api/rouge/uploads and GET /api/rouge/uploads/<session>/<id> for file/image uploads, plus the chat upload UI. Ships the new_customer recipe and the floor_runs sqlite registry (used by 20261017-assembly-floor).",
+      "public": false,
+      "published_at": "2026-10-10T02:32:04Z"
+    },
+    {
+      "version": "20261017",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/a0f6c0ed47cb07c097f9a92f/meos-20261017.meosupdate",
+      "min_from_version": "20261016",
+      "release_notes": "Assembly Floor: live view of agents, builds, and approvals. The factory floor for MEOS.",
+      "notes": "Assembly Floor: Matthew's private control room. Live agent runtime view (Running/Waiting/Done/Agents), unified approval queue (same source as chat cards, bidirectional sync), build/recipe history with logs, and agent lifecycle management. Built-in agents: Rouge (on-demand), Watchdog (health every 15m), Snapshot (pre-update), Log Sweep (daily). Scout\u2192draft\u2192approval\u2192publish pipeline flows through existing governance. No fake liveness \u2014 empty states are honest.",
+      "public": false,
+      "published_at": "2026-10-10T02:32:44Z"
+    },
+    {
+      "version": "20261018",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/0e015958438ad2ed08fbbd86/meos-20261018.meosupdate",
+      "min_from_version": "20261017",
+      "release_notes": "Themes: 6 visual themes with instant switching in Settings \u2192 Appearance.",
+      "notes": "MEOS theme system: 6 themes (Midnight Aurora, Daybreak, Obsidian, Mist, Maize & Blue, Honolulu) as CSS custom-property token files. Hardcoded colors in console.css converted to var(--meos-*) tokens (conservative exact-match; unmapped colors left intact). Settings -> Appearance gets a theme picker grid; switching is instant (data-theme attribute, no reload, windows stay open). Choice persists in localStorage. Midnight Aurora is the default.",
+      "public": false,
+      "published_at": "2026-10-10T02:33:15Z"
     }
   ]
 }
