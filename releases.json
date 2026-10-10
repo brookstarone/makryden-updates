@@ -134,6 +134,17 @@
       "notes": "Builders layer with PROPERLY PATCHED meos-rouge (built from live 20261015 file, not blind patch scripts). write_file, start_recipe, read_upload wired with lazy imports \u2014 a broken builders module cannot break boot. Console.js UI deferred to avoid risk.",
       "public": false,
       "published_at": "2026-10-10T03:11:06Z"
+    },
+    {
+      "version": "20261023",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/afbbaf17ae7cfd2b1368f4fc/meos-20261023.meosupdate",
+      "min_from_version": "20261015",
+      "release_notes": "Builders layer: Rouge can now write files (governed), run recipes, and accept uploads. Recipe runs are tracked for the Assembly Floor.",
+      "notes": "Builders layer with PROPERLY PATCHED meos-rouge (built from live 20261015 file, not blind patch scripts). write_file, start_recipe, read_upload wired with lazy imports \u2014 a broken builders module cannot break boot. Console.js UI deferred to avoid risk.",
+      "public": false,
+      "published_at": "2026-10-10T04:18:49Z"
     }
   ]
 }
