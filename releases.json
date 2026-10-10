@@ -88,6 +88,18 @@
       "public": false,
       "published_at": "2026-10-10T02:36:46Z",
       "promoted": true
+    },
+    {
+      "version": "20261017",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/a0f6c0ed47cb07c097f9a92f/meos-20261017.meosupdate",
+      "min_from_version": "20261016",
+      "release_notes": "Assembly Floor: live view of agents, builds, and approvals. The factory floor for MEOS.",
+      "notes": "",
+      "public": false,
+      "published_at": "2026-10-10T02:40:53Z",
+      "promoted": true
     }
   ]
 }
