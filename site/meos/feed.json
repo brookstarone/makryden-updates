@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 12,
-  "issued_at": "2026-10-10T02:55:16Z",
-  "expires_at": "2026-10-24T02:55:16Z",
+  "sequence": 13,
+  "issued_at": "2026-10-10T03:11:01Z",
+  "expires_at": "2026-10-24T03:11:01Z",
   "rings": {
     "ring0": {
-      "version": "20261019",
-      "package": "https://updates.makrydensystems.com/meos/p/ce253860dfd929b7c055d979/meos-20261019.meosupdate",
-      "sha256": "e2cf0ec23f182a004b200ee3f1002a2cc308932709650e898a75d646c1908909",
-      "size": 31847,
+      "version": "20261022",
+      "package": "https://updates.makrydensystems.com/meos/p/32ae38f2e94c06b21b1769c2/meos-20261022.meosupdate",
+      "sha256": "1dfa09161a81c8f43e7cd22f3cf4493cd4bf5efdbb339830b8621b5a8434035b",
+      "size": 63724,
       "min_from_version": "20261015",
       "notes": "Builders layer: Rouge can now write files (governed), run recipes, and accept uploads. Recipe runs are tracked for the Assembly Floor.",
       "rollout_percent": 100
