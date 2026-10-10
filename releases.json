@@ -76,6 +76,18 @@
       "notes": "MEOS theme system: 6 themes (Midnight Aurora, Daybreak, Obsidian, Mist, Maize & Blue, Honolulu) as CSS custom-property token files. Hardcoded colors in console.css converted to var(--meos-*) tokens (conservative exact-match; unmapped colors left intact). Settings -> Appearance gets a theme picker grid; switching is instant (data-theme attribute, no reload, windows stay open). Choice persists in localStorage. Midnight Aurora is the default.",
       "public": false,
       "published_at": "2026-10-10T02:33:15Z"
+    },
+    {
+      "version": "20261016",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/3a68caac0a23decc2f320922/meos-20261016.meosupdate",
+      "min_from_version": "20261015",
+      "release_notes": "Builders layer: Rouge can now write files (governed), run recipes, and accept uploads. Recipe runs are tracked for the Assembly Floor.",
+      "notes": "",
+      "public": false,
+      "published_at": "2026-10-10T02:36:46Z",
+      "promoted": true
     }
   ]
 }
