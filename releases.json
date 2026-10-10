@@ -112,6 +112,17 @@
       "public": false,
       "published_at": "2026-10-10T02:48:19Z",
       "promoted": true
+    },
+    {
+      "version": "20261019",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/ce253860dfd929b7c055d979/meos-20261019.meosupdate",
+      "min_from_version": "20261015",
+      "release_notes": "Builders layer: Rouge can now write files (governed), run recipes, and accept uploads. Recipe runs are tracked for the Assembly Floor.",
+      "notes": "Wires the Phase 4 builders into Rouge's brain: write_file (safe roots write immediately, others held for approval, system paths refused), start_recipe (pausable/resumable, tracked in the floor registry), read_upload, and list_recipes pointed at the on-disk registry. Adds POST /api/rouge/uploads and GET /api/rouge/uploads/<session>/<id> for file/image uploads, plus the chat upload UI. Ships the new_customer recipe and the floor_runs sqlite registry (used by 20261017-assembly-floor).",
+      "public": false,
+      "published_at": "2026-10-10T02:55:31Z"
     }
   ]
 }
