@@ -200,6 +200,17 @@
       "notes": "Fix: theme stylesheets now load as direct head children (were wrapped in hidden span, preventing load). Theme switching should now work.",
       "public": false,
       "published_at": "2026-10-11T03:42:06Z"
+    },
+    {
+      "version": "20261029",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/c393c0c8d13558185d8d6470/meos-20261029.meosupdate",
+      "min_from_version": "20261028",
+      "release_notes": "Themes: fix body background so switching themes visibly works.",
+      "notes": "Fix: body background now uses --bg-base/--bg-image variables so themes actually change the desktop. Light themes hide the dark bg.webp.",
+      "public": false,
+      "published_at": "2026-10-11T03:48:01Z"
     }
   ]
 }
