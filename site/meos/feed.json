@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 22,
-  "issued_at": "2026-10-11T04:12:39Z",
-  "expires_at": "2026-10-25T04:12:39Z",
+  "sequence": 23,
+  "issued_at": "2026-10-11T04:35:53Z",
+  "expires_at": "2026-10-25T04:35:53Z",
   "rings": {
     "ring0": {
-      "version": "20261031",
-      "package": "https://updates.makrydensystems.com/meos/p/20c2b84452097a3472106372/meos-20261031.meosupdate",
-      "sha256": "ba45af8fd8ca51b1e1541c3d092d82f1fecdbfd5be45d95cb07578cb802f1614",
-      "size": 517176,
-      "min_from_version": "20261030",
-      "notes": "Themes: unique backgrounds for Maize & Blue and Honolulu; full console UI theming for all dark themes.",
+      "version": "20261032",
+      "package": "https://updates.makrydensystems.com/meos/p/2a948ec0b2cf6f8e24c0952b/meos-20261032.meosupdate",
+      "sha256": "1feb3621fc910b84e57b4ee84891daf60de9055cedea748d745bf0cd19375a9e",
+      "size": 2987180,
+      "min_from_version": "20261031",
+      "notes": "StarBrook 1.1.0: Feature Packs are here. Mountain menu, signed pack manager, Features settings.",
       "rollout_percent": 100
     }
   },

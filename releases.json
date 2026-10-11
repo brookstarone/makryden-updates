@@ -233,6 +233,17 @@
       "notes": "Complete theming: Maize & Blue and Honolulu get their own backgrounds; all 4 dark themes now override console --oc-* variables so Settings/rail/console UI matches each theme identity.",
       "public": false,
       "published_at": "2026-10-11T04:12:44Z"
+    },
+    {
+      "version": "20261032",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/2a948ec0b2cf6f8e24c0952b/meos-20261032.meosupdate",
+      "min_from_version": "20261031",
+      "release_notes": "StarBrook 1.1.0: Feature Packs are here. Mountain menu, signed pack manager, Features settings.",
+      "notes": "StarBrook 1.1.0 delta: Feature Packs system (pack manager, PackAPI sandbox, mountain menu, Settings->Features UI, Hunt Log). Real pack-signers key. Only changed files (src, assets, packs) \u2014 Electron engine unchanged.",
+      "public": false,
+      "published_at": "2026-10-11T04:35:59Z"
     }
   ]
 }
