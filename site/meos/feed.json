@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 24,
-  "issued_at": "2026-10-11T04:52:17Z",
-  "expires_at": "2026-10-25T04:52:17Z",
+  "sequence": 25,
+  "issued_at": "2026-10-11T05:05:19Z",
+  "expires_at": "2026-10-25T05:05:19Z",
   "rings": {
     "ring0": {
-      "version": "20261033",
-      "package": "https://updates.makrydensystems.com/meos/p/175cade03dd7afb7a369f0f4/meos-20261033.meosupdate",
-      "sha256": "239ad5fee2f83b9d29e9b85b161fb0d9acaa05360397fc7e649a737c16aeb902",
-      "size": 11043,
-      "min_from_version": "20261032",
-      "notes": "StarBrook: fix pack signature verification (absolute ssh-keygen path).",
+      "version": "20261034",
+      "package": "https://updates.makrydensystems.com/meos/p/92b808827bbb5a8711313d85/meos-20261034.meosupdate",
+      "sha256": "fa0f86f5ced69d3d4f4d606573b9977de185f3d54b31602f2f286dd9f01df796",
+      "size": 81036,
+      "min_from_version": "20261033",
+      "notes": "System Health in Settings (live metrics, A-F grade, sound alerts). Real terminal \u2014 full bash shell, owner only. Rouge Control (renamed from Chat with Rouge).",
       "rollout_percent": 100
     }
   },

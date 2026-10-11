@@ -255,6 +255,17 @@
       "notes": "Fix: pack manager uses absolute /usr/bin/ssh-keygen path (Electron PATH is minimal).",
       "public": false,
       "published_at": "2026-10-11T04:52:23Z"
+    },
+    {
+      "version": "20261034",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/92b808827bbb5a8711313d85/meos-20261034.meosupdate",
+      "min_from_version": "20261033",
+      "release_notes": "System Health in Settings (live metrics, A-F grade, sound alerts). Real terminal \u2014 full bash shell, owner only. Rouge Control (renamed from Chat with Rouge).",
+      "notes": "Package A: System Health + Real Terminal + Rouge Control. Backend: meos_health.py (/api/health/* read-only diagnostics, A-F grades), meos_terminal.py (/api/terminal/* real PTY bash sessions). Frontend: System Health tab in Settings (auto-refresh, sound alerts), real PTY terminal UI replacing governed allowlist, 'Chat with Rouge' renamed to 'Rouge Control'. NOTE: server dispatch wiring required \u2014 see DISPATCH-NOTES.md. Frontend degrades gracefully if backend routes aren't wired yet. Patched meos-rouge server to wire up meos_health and meos_terminal modules.",
+      "public": false,
+      "published_at": "2026-10-11T05:05:25Z"
     }
   ]
 }
