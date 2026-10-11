@@ -222,6 +222,17 @@
       "notes": "Fix: light themes now override console.css --oc-* variables so Settings window, rail, and console UI go light too.",
       "public": false,
       "published_at": "2026-10-11T04:05:10Z"
+    },
+    {
+      "version": "20261031",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/20c2b84452097a3472106372/meos-20261031.meosupdate",
+      "min_from_version": "20261030",
+      "release_notes": "Themes: unique backgrounds for Maize & Blue and Honolulu; full console UI theming for all dark themes.",
+      "notes": "Complete theming: Maize & Blue and Honolulu get their own backgrounds; all 4 dark themes now override console --oc-* variables so Settings/rail/console UI matches each theme identity.",
+      "public": false,
+      "published_at": "2026-10-11T04:12:44Z"
     }
   ]
 }
