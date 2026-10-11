@@ -167,6 +167,17 @@
       "notes": "Assembly Floor backend: live agent runtime API (Running/Waiting/Done/Agents), unified approval queue, build/recipe history with logs, agent lifecycle management. Built-in agents: Rouge (on-demand), Watchdog (health every 15m), Snapshot (pre-update), Log Sweep (daily). Backend API only \u2014 dashboard UI ships separately once live UI files are confirmed.",
       "public": false,
       "published_at": "2026-10-11T03:05:37Z"
+    },
+    {
+      "version": "20261026",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/84fa5f591e8674d15a6b7902/meos-20261026.meosupdate",
+      "min_from_version": "20261025",
+      "release_notes": "Themes: 6 theme stylesheets installed. Picker UI follows.",
+      "notes": "MEOS theme system CSS: 6 themes (Midnight Aurora, Daybreak, Obsidian, Mist, Maize & Blue, Honolulu) as CSS custom-property overrides for desktop.css variables. Files are on disk; theme picker UI and loader ship separately once live UI files are confirmed.",
+      "public": false,
+      "published_at": "2026-10-11T03:13:08Z"
     }
   ]
 }
