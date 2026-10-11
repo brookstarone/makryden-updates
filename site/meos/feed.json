@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 18,
-  "issued_at": "2026-10-11T03:28:38Z",
-  "expires_at": "2026-10-25T03:28:38Z",
+  "sequence": 19,
+  "issued_at": "2026-10-11T03:42:02Z",
+  "expires_at": "2026-10-25T03:42:02Z",
   "rings": {
     "ring0": {
-      "version": "20261027",
-      "package": "https://updates.makrydensystems.com/meos/p/7e749595749b3f854a670c44/meos-20261027.meosupdate",
-      "sha256": "17b5b791c5f6084cc1d9b4a91938557446286ed0ced6eff85215864a2d7cc1cf",
-      "size": 8995,
-      "min_from_version": "20261026",
-      "notes": "Themes picker + Assembly Floor dashboard UI. What you can finally see.",
+      "version": "20261028",
+      "package": "https://updates.makrydensystems.com/meos/p/af6e888b8a5cdc121ecb66f8/meos-20261028.meosupdate",
+      "sha256": "a440ab7777e223a97ba2527d6a0b6eca61484c54b2d8d73514c76c984450dcda",
+      "size": 3209,
+      "min_from_version": "20261027",
+      "notes": "Themes: fix stylesheet loading so switching actually works.",
       "rollout_percent": 100
     }
   },

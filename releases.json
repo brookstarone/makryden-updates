@@ -189,6 +189,17 @@
       "notes": "Visible UI: theme picker in Settings \u2192 Appearance (6 themes, instant switching, persists), Assembly Floor dashboard overlay (rail button + Ctrl+Shift+F, live agent/approval views). Built against live 20261026 UI files.",
       "public": false,
       "published_at": "2026-10-11T03:28:44Z"
+    },
+    {
+      "version": "20261028",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/af6e888b8a5cdc121ecb66f8/meos-20261028.meosupdate",
+      "min_from_version": "20261027",
+      "release_notes": "Themes: fix stylesheet loading so switching actually works.",
+      "notes": "Fix: theme stylesheets now load as direct head children (were wrapped in hidden span, preventing load). Theme switching should now work.",
+      "public": false,
+      "published_at": "2026-10-11T03:42:06Z"
     }
   ]
 }
