@@ -244,6 +244,17 @@
       "notes": "StarBrook 1.1.0 delta: Feature Packs system (pack manager, PackAPI sandbox, mountain menu, Settings->Features UI, Hunt Log). Real pack-signers key. Only changed files (src, assets, packs) \u2014 Electron engine unchanged.",
       "public": false,
       "published_at": "2026-10-11T04:35:59Z"
+    },
+    {
+      "version": "20261033",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/175cade03dd7afb7a369f0f4/meos-20261033.meosupdate",
+      "min_from_version": "20261032",
+      "release_notes": "StarBrook: fix pack signature verification (absolute ssh-keygen path).",
+      "notes": "Fix: pack manager uses absolute /usr/bin/ssh-keygen path (Electron PATH is minimal).",
+      "public": false,
+      "published_at": "2026-10-11T04:52:23Z"
     }
   ]
 }

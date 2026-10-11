@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 23,
-  "issued_at": "2026-10-11T04:35:53Z",
-  "expires_at": "2026-10-25T04:35:53Z",
+  "sequence": 24,
+  "issued_at": "2026-10-11T04:52:17Z",
+  "expires_at": "2026-10-25T04:52:17Z",
   "rings": {
     "ring0": {
-      "version": "20261032",
-      "package": "https://updates.makrydensystems.com/meos/p/2a948ec0b2cf6f8e24c0952b/meos-20261032.meosupdate",
-      "sha256": "1feb3621fc910b84e57b4ee84891daf60de9055cedea748d745bf0cd19375a9e",
-      "size": 2987180,
-      "min_from_version": "20261031",
-      "notes": "StarBrook 1.1.0: Feature Packs are here. Mountain menu, signed pack manager, Features settings.",
+      "version": "20261033",
+      "package": "https://updates.makrydensystems.com/meos/p/175cade03dd7afb7a369f0f4/meos-20261033.meosupdate",
+      "sha256": "239ad5fee2f83b9d29e9b85b161fb0d9acaa05360397fc7e649a737c16aeb902",
+      "size": 11043,
+      "min_from_version": "20261032",
+      "notes": "StarBrook: fix pack signature verification (absolute ssh-keygen path).",
       "rollout_percent": 100
     }
   },
