@@ -156,6 +156,17 @@
       "notes": "Builders layer with PROPERLY PATCHED meos-rouge (built from live 20261015 file, not blind patch scripts). write_file, start_recipe, read_upload wired with lazy imports \u2014 a broken builders module cannot break boot. Console.js UI deferred to avoid risk.",
       "public": false,
       "published_at": "2026-10-10T04:31:50Z"
+    },
+    {
+      "version": "20261025",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/5ce867543a3f42e49ce0e740/meos-20261025.meosupdate",
+      "min_from_version": "20261024",
+      "release_notes": "Assembly Floor backend: agent runtime API and approval queue. Dashboard UI follows.",
+      "notes": "Assembly Floor backend: live agent runtime API (Running/Waiting/Done/Agents), unified approval queue, build/recipe history with logs, agent lifecycle management. Built-in agents: Rouge (on-demand), Watchdog (health every 15m), Snapshot (pre-update), Log Sweep (daily). Backend API only \u2014 dashboard UI ships separately once live UI files are confirmed.",
+      "public": false,
+      "published_at": "2026-10-11T03:05:37Z"
     }
   ]
 }

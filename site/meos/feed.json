@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 15,
-  "issued_at": "2026-10-10T04:31:46Z",
-  "expires_at": "2026-10-24T04:31:46Z",
+  "sequence": 16,
+  "issued_at": "2026-10-11T03:05:32Z",
+  "expires_at": "2026-10-25T03:05:32Z",
   "rings": {
     "ring0": {
-      "version": "20261024",
-      "package": "https://updates.makrydensystems.com/meos/p/f92c48600cfb8476a462d412/meos-20261024.meosupdate",
-      "sha256": "31789309b4c7992cef9640be11861bf5d618c61ea4099fc2a5504ce0316afe36",
-      "size": 63594,
-      "min_from_version": "20261015",
-      "notes": "Builders layer: Rouge can now write files (governed), run recipes, and accept uploads. Recipe runs are tracked for the Assembly Floor.",
+      "version": "20261025",
+      "package": "https://updates.makrydensystems.com/meos/p/5ce867543a3f42e49ce0e740/meos-20261025.meosupdate",
+      "sha256": "3ba5f7cecdbb4469e1b49da7fe0b1c3c91cb412a0aab31a9d685b567cba43551",
+      "size": 69069,
+      "min_from_version": "20261024",
+      "notes": "Assembly Floor backend: agent runtime API and approval queue. Dashboard UI follows.",
       "rollout_percent": 100
     }
   },
