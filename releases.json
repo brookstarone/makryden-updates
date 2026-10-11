@@ -211,6 +211,17 @@
       "notes": "Fix: body background now uses --bg-base/--bg-image variables so themes actually change the desktop. Light themes hide the dark bg.webp.",
       "public": false,
       "published_at": "2026-10-11T03:48:01Z"
+    },
+    {
+      "version": "20261030",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/eb95e8f8a947d64ee6512ef6/meos-20261030.meosupdate",
+      "min_from_version": "20261029",
+      "release_notes": "Themes: fix Settings/console UI to follow light themes.",
+      "notes": "Fix: light themes now override console.css --oc-* variables so Settings window, rail, and console UI go light too.",
+      "public": false,
+      "published_at": "2026-10-11T04:05:10Z"
     }
   ]
 }
