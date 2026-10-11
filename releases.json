@@ -178,6 +178,17 @@
       "notes": "MEOS theme system CSS: 6 themes (Midnight Aurora, Daybreak, Obsidian, Mist, Maize & Blue, Honolulu) as CSS custom-property overrides for desktop.css variables. Files are on disk; theme picker UI and loader ship separately once live UI files are confirmed.",
       "public": false,
       "published_at": "2026-10-11T03:13:08Z"
+    },
+    {
+      "version": "20261027",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/7e749595749b3f854a670c44/meos-20261027.meosupdate",
+      "min_from_version": "20261026",
+      "release_notes": "Themes picker + Assembly Floor dashboard UI. What you can finally see.",
+      "notes": "Visible UI: theme picker in Settings \u2192 Appearance (6 themes, instant switching, persists), Assembly Floor dashboard overlay (rail button + Ctrl+Shift+F, live agent/approval views). Built against live 20261026 UI files.",
+      "public": false,
+      "published_at": "2026-10-11T03:28:44Z"
     }
   ]
 }

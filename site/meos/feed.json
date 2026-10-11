@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 17,
-  "issued_at": "2026-10-11T03:12:37Z",
-  "expires_at": "2026-10-25T03:12:37Z",
+  "sequence": 18,
+  "issued_at": "2026-10-11T03:28:38Z",
+  "expires_at": "2026-10-25T03:28:38Z",
   "rings": {
     "ring0": {
-      "version": "20261026",
-      "package": "https://updates.makrydensystems.com/meos/p/84fa5f591e8674d15a6b7902/meos-20261026.meosupdate",
-      "sha256": "bee9ab4e7fe80813800844c5de8cfcdbd44868fe2077f30993f317351be4753e",
-      "size": 2424,
-      "min_from_version": "20261025",
-      "notes": "Themes: 6 theme stylesheets installed. Picker UI follows.",
+      "version": "20261027",
+      "package": "https://updates.makrydensystems.com/meos/p/7e749595749b3f854a670c44/meos-20261027.meosupdate",
+      "sha256": "17b5b791c5f6084cc1d9b4a91938557446286ed0ced6eff85215864a2d7cc1cf",
+      "size": 8995,
+      "min_from_version": "20261026",
+      "notes": "Themes picker + Assembly Floor dashboard UI. What you can finally see.",
       "rollout_percent": 100
     }
   },
