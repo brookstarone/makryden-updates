@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 26,
-  "issued_at": "2026-10-11T05:09:33Z",
-  "expires_at": "2026-10-25T05:09:33Z",
+  "sequence": 27,
+  "issued_at": "2026-10-11T23:31:24Z",
+  "expires_at": "2026-10-25T23:31:24Z",
   "rings": {
     "ring0": {
-      "version": "20261035",
-      "package": "https://updates.makrydensystems.com/meos/p/398cf6df35015ba54dbda8fd/meos-20261035.meosupdate",
-      "sha256": "7bebed0e17de9b12a6e27534b0856d5f62c0be6cbd22def2e636cc7b8a3c30ea",
-      "size": 33221,
-      "min_from_version": "20261034",
-      "notes": "Rollback UI to working state (fixes boot failure from 20261034).",
+      "version": "20261036",
+      "package": "https://updates.makrydensystems.com/meos/p/3c729e48f4b3dce6f536f8b0/meos-20261036.meosupdate",
+      "sha256": "91ca17a70c79698dc256cb955c1db6117cba1676feba175817f85899d716013a",
+      "size": 35202,
+      "min_from_version": "20261035",
+      "notes": "Package A: System Health + real terminal + Rouge Control (surgical rebuild).",
       "rollout_percent": 100
     }
   },
