@@ -1,0 +1,11 @@
+{
+  "product": "starbrook-android",
+  "versionCode": 2,
+  "versionName": "0.2.0-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.2.0-beta/StarBrook-0.2.0-beta-arm64.apk",
+  "sha256": "61ac6d50b311ff0efd9f6ae1e7a454c15a36b741cb5562ee333e8d246d9c92a4",
+  "size": 98583442,
+  "notes": "Save images, address-bar suggestions, new icon, open-source thanks.",
+  "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
+  "published_at": "2026-10-12T06:19:49Z"
+}
