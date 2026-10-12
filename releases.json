@@ -300,6 +300,17 @@
       "public": false,
       "published_at": "2026-10-12T01:56:50Z",
       "promoted": true
+    },
+    {
+      "version": "20261037",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/67b7725db2077d3085f5dec8/meos-20261037.meosupdate",
+      "min_from_version": "20261036",
+      "release_notes": "Package A: System Health + real terminal + Rouge Control (surgical rebuild).",
+      "notes": "Package A (surgical rebuild): System Health tab in Settings (A-F grade, sound alerts, 30s refresh), real PTY terminal replacing governed allowlist, Rouge Control rename (id:chat preserved). Built via surgical patches on working codebase \u2014 APPS registry verified intact. Backend (meos_health.py, meos_terminal.py) already on VM from 20261034. Fixes health metrics frontend/backend mismatch (was reading j.metrics, backend returns top-level).",
+      "public": false,
+      "published_at": "2026-10-12T01:58:18Z"
     }
   ]
 }

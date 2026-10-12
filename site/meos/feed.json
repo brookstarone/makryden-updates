@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 28,
-  "issued_at": "2026-10-12T01:56:45Z",
-  "expires_at": "2026-10-26T01:56:45Z",
+  "sequence": 29,
+  "issued_at": "2026-10-12T01:58:14Z",
+  "expires_at": "2026-10-26T01:58:14Z",
   "rings": {
     "ring0": {
-      "version": "20261036",
-      "package": "https://updates.makrydensystems.com/meos/p/3c729e48f4b3dce6f536f8b0/meos-20261036.meosupdate",
-      "sha256": "91ca17a70c79698dc256cb955c1db6117cba1676feba175817f85899d716013a",
-      "size": 35202,
-      "min_from_version": "20261035",
+      "version": "20261037",
+      "package": "https://updates.makrydensystems.com/meos/p/67b7725db2077d3085f5dec8/meos-20261037.meosupdate",
+      "sha256": "8e3d3d4afa2903be65d4d250148d1509c3c58b29eb5a18117bdb265875d14347",
+      "size": 35296,
+      "min_from_version": "20261036",
       "notes": "Package A: System Health + real terminal + Rouge Control (surgical rebuild).",
       "rollout_percent": 100
     }
