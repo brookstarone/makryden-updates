@@ -311,6 +311,17 @@
       "notes": "Package A (surgical rebuild): System Health tab in Settings (A-F grade, sound alerts, 30s refresh), real PTY terminal replacing governed allowlist, Rouge Control rename (id:chat preserved). Built via surgical patches on working codebase \u2014 APPS registry verified intact. Backend (meos_health.py, meos_terminal.py) already on VM from 20261034. Fixes health metrics frontend/backend mismatch (was reading j.metrics, backend returns top-level).",
       "public": false,
       "published_at": "2026-10-12T01:58:18Z"
+    },
+    {
+      "version": "20261038",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/bdf01093200ea9dc4660621e/meos-20261038.meosupdate",
+      "min_from_version": "20261037",
+      "release_notes": "StarBrook 1.2.0: Kid Mode arrives, BrookShield VPN (Chicago nodes go live soon), Feature Packs + Hunt Log, WebRTC IP shield \u2014 and every Wolverine protection kept.",
+      "notes": "StarBrook 1.2.0. Brings the two StarBrook branches back together so nothing is lost: everything MEOS runs today (Makryden Wolverine: Chromium hardening, click-gated pop-up blocker with per-site exceptions, LAN hosts never forced to HTTPS) plus Feature Packs (Settings > Features; signed, sandboxed, off by default) with the bundled Hunt Log pack, and the malware/HTTPS-fallback warning page improvements. New: BrookShield VPN (Settings > BrookShield VPN) with three Makryden exit nodes in Chicago; until the nodes are live it says so and refuses to connect. New: Wolverine WebRTC IP shield (on by default). New: Kid Mode (Settings > Kid Mode) \u2014 sign in with a Makryden account, choose a PIN, and StarBrook filters sites on this computer (family list + your own rules from makrydensystems.com/account; malware protection can't be overridden), locks SafeSearch and YouTube Restricted Mode, turns off private windows and PIN-locks protection settings. The account only ever receives site names and counts. Ships the whole app folder (80 files) so every file is consistent. Restart StarBrook to load it.",
+      "public": false,
+      "published_at": "2026-10-12T23:42:47Z"
     }
   ]
 }

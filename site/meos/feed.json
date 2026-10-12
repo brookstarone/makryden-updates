@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 30,
-  "issued_at": "2026-10-12T06:59:02Z",
-  "expires_at": "2026-10-26T06:59:02Z",
+  "sequence": 31,
+  "issued_at": "2026-10-12T23:42:41Z",
+  "expires_at": "2026-10-26T23:42:41Z",
   "rings": {
     "ring0": {
-      "version": "20261037",
-      "package": "https://updates.makrydensystems.com/meos/p/67b7725db2077d3085f5dec8/meos-20261037.meosupdate",
-      "sha256": "8e3d3d4afa2903be65d4d250148d1509c3c58b29eb5a18117bdb265875d14347",
-      "size": 35296,
-      "min_from_version": "20261034",
-      "notes": "Package A: System Health + real terminal + Rouge Control (surgical rebuild).",
+      "version": "20261038",
+      "package": "https://updates.makrydensystems.com/meos/p/bdf01093200ea9dc4660621e/meos-20261038.meosupdate",
+      "sha256": "d22d4ad9dbbbb6a6d1006051181d843000838d76532302897ccbca31889abb97",
+      "size": 3695959,
+      "min_from_version": "20261037",
+      "notes": "StarBrook 1.2.0: Kid Mode arrives, BrookShield VPN (Chicago nodes go live soon), Feature Packs + Hunt Log, WebRTC IP shield \u2014 and every Wolverine protection kept.",
       "rollout_percent": 100
     }
   },
