@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 4,
-  "versionName": "0.3.0-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.3.0-beta/StarBrook-0.3.0-beta-arm64.apk",
-  "sha256": "ea24ae65dcd6d73008f2f1d42462746e60862f78b9d8af17ab45c89a8531bd6a",
-  "size": 100124268,
-  "notes": "0.3.0-beta: Kid Mode with parent account, BrookShield VPN, tighter privacy defaults",
+  "versionCode": 5,
+  "versionName": "0.3.1-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.3.1-beta/StarBrook-0.3.1-beta-arm64.apk",
+  "sha256": "1962723249f432b4e0bf82224ac1536892e13ec2049aaf9f1a3858b1e04c9f43",
+  "size": 100128588,
+  "notes": "0.3.1-beta: polished look, site letters on tabs, Private pill, BrookShield status card, Desktop site in the menu",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 3,
-  "published_at": "2026-10-13T07:41:08Z"
+  "previous_versionCode": 4,
+  "published_at": "2026-10-13T23:29:29Z"
 }

@@ -1,0 +1,18 @@
+{
+  "version": "1.2.1",
+  "windows": [],
+  "linux": [
+    {
+      "label": "for Linux (x86-64)",
+      "url": "https://github.com/brookstarone/starbrook-releases/releases/download/desktop-1.2.1/StarBrook-1.2.1-x86_64.AppImage",
+      "sha256": "71983c24d5b91c98f2c2c44898a68d462881c6dbce7ded425ab4832d8fec7e42",
+      "size": 119081464
+    },
+    {
+      "label": "for Linux (ARM64)",
+      "url": "https://github.com/brookstarone/starbrook-releases/releases/download/desktop-1.2.1/StarBrook-1.2.1-aarch64.AppImage",
+      "sha256": "20fb67b44dc6c69a2f486faed8ac3850bc3988b9f900631c94916f8200b3505c",
+      "size": 119360008
+    }
+  ]
+}
