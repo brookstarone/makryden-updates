@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 35,
-  "issued_at": "2026-10-13T00:15:46Z",
-  "expires_at": "2026-10-27T00:15:46Z",
+  "sequence": 36,
+  "issued_at": "2026-10-13T00:46:33Z",
+  "expires_at": "2026-10-27T00:46:33Z",
   "rings": {
     "ring0": {
-      "version": "20261038",
-      "package": "https://updates.makrydensystems.com/meos/p/bdf01093200ea9dc4660621e/meos-20261038.meosupdate",
-      "sha256": "d22d4ad9dbbbb6a6d1006051181d843000838d76532302897ccbca31889abb97",
-      "size": 3695959,
-      "min_from_version": "20261037",
-      "notes": "StarBrook 1.2.0: Kid Mode arrives, BrookShield VPN (Chicago nodes go live soon), Feature Packs + Hunt Log, WebRTC IP shield \u2014 and every Wolverine protection kept.",
+      "version": "20261039",
+      "package": "https://updates.makrydensystems.com/meos/p/315c385ac06e9a7895d9c94c/meos-20261039.meosupdate",
+      "sha256": "9d1c349cffa57ed8d2ac45c435cf9240f2fac6073da2e009acb745ae8ec28d54",
+      "size": 35509,
+      "min_from_version": "20261038",
+      "notes": "StarBrook 1.2.1: Hunt Log installs (signed pack), Kid Mode account links go to the right pages.",
       "rollout_percent": 100
     }
   },

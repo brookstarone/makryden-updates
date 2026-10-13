@@ -370,6 +370,17 @@
       "public": false,
       "published_at": "2026-10-13T00:15:50Z",
       "promoted": true
+    },
+    {
+      "version": "20261039",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/315c385ac06e9a7895d9c94c/meos-20261039.meosupdate",
+      "min_from_version": "20261038",
+      "release_notes": "StarBrook 1.2.1: Hunt Log installs (signed pack), Kid Mode account links go to the right pages.",
+      "notes": "StarBrook 1.2.1. Hunt Log now installs: the bundled pack ships with its Makryden signature (it was refused as unsigned before). Kid Mode links fixed: 'No account yet? Create one' opens the StarBrook page's Kid Mode section (makrydensystems.com/starbrook), 'Open portal' opens makrydensystems.com/account/. 6 files. Restart StarBrook to load it.",
+      "public": false,
+      "published_at": "2026-10-13T00:46:40Z"
     }
   ]
 }
