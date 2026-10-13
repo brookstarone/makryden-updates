@@ -334,6 +334,18 @@
       "public": false,
       "published_at": "2026-10-13T00:00:50Z",
       "promoted": true
+    },
+    {
+      "version": "20261036",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/3c729e48f4b3dce6f536f8b0/meos-20261036.meosupdate",
+      "min_from_version": "20261035",
+      "release_notes": "Package A: System Health + real terminal + Rouge Control (surgical rebuild).",
+      "notes": "",
+      "public": false,
+      "published_at": "2026-10-13T00:05:05Z",
+      "promoted": true
     }
   ]
 }
