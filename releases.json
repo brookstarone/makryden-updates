@@ -358,6 +358,18 @@
       "public": false,
       "published_at": "2026-10-13T00:10:29Z",
       "promoted": true
+    },
+    {
+      "version": "20261038",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/bdf01093200ea9dc4660621e/meos-20261038.meosupdate",
+      "min_from_version": "20261037",
+      "release_notes": "StarBrook 1.2.0: Kid Mode arrives, BrookShield VPN (Chicago nodes go live soon), Feature Packs + Hunt Log, WebRTC IP shield \u2014 and every Wolverine protection kept.",
+      "notes": "",
+      "public": false,
+      "published_at": "2026-10-13T00:15:50Z",
+      "promoted": true
     }
   ]
 }
