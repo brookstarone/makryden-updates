@@ -322,6 +322,18 @@
       "notes": "StarBrook 1.2.0. Brings the two StarBrook branches back together so nothing is lost: everything MEOS runs today (Makryden Wolverine: Chromium hardening, click-gated pop-up blocker with per-site exceptions, LAN hosts never forced to HTTPS) plus Feature Packs (Settings > Features; signed, sandboxed, off by default) with the bundled Hunt Log pack, and the malware/HTTPS-fallback warning page improvements. New: BrookShield VPN (Settings > BrookShield VPN) with three Makryden exit nodes in Chicago; until the nodes are live it says so and refuses to connect. New: Wolverine WebRTC IP shield (on by default). New: Kid Mode (Settings > Kid Mode) \u2014 sign in with a Makryden account, choose a PIN, and StarBrook filters sites on this computer (family list + your own rules from makrydensystems.com/account; malware protection can't be overridden), locks SafeSearch and YouTube Restricted Mode, turns off private windows and PIN-locks protection settings. The account only ever receives site names and counts. Ships the whole app folder (80 files) so every file is consistent. Restart StarBrook to load it.",
       "public": false,
       "published_at": "2026-10-12T23:42:47Z"
+    },
+    {
+      "version": "20261035",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/398cf6df35015ba54dbda8fd/meos-20261035.meosupdate",
+      "min_from_version": "20261034",
+      "release_notes": "Rollback UI to working state (fixes boot failure from 20261034).",
+      "notes": "",
+      "public": false,
+      "published_at": "2026-10-13T00:00:50Z",
+      "promoted": true
     }
   ]
 }

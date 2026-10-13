@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 31,
-  "issued_at": "2026-10-12T23:42:41Z",
-  "expires_at": "2026-10-26T23:42:41Z",
+  "sequence": 32,
+  "issued_at": "2026-10-13T00:00:44Z",
+  "expires_at": "2026-10-27T00:00:44Z",
   "rings": {
     "ring0": {
-      "version": "20261038",
-      "package": "https://updates.makrydensystems.com/meos/p/bdf01093200ea9dc4660621e/meos-20261038.meosupdate",
-      "sha256": "d22d4ad9dbbbb6a6d1006051181d843000838d76532302897ccbca31889abb97",
-      "size": 3695959,
-      "min_from_version": "20261037",
-      "notes": "StarBrook 1.2.0: Kid Mode arrives, BrookShield VPN (Chicago nodes go live soon), Feature Packs + Hunt Log, WebRTC IP shield \u2014 and every Wolverine protection kept.",
+      "version": "20261035",
+      "package": "https://updates.makrydensystems.com/meos/p/398cf6df35015ba54dbda8fd/meos-20261035.meosupdate",
+      "sha256": "7bebed0e17de9b12a6e27534b0856d5f62c0be6cbd22def2e636cc7b8a3c30ea",
+      "size": 33221,
+      "min_from_version": "20261034",
+      "notes": "Rollback UI to working state (fixes boot failure from 20261034).",
       "rollout_percent": 100
     }
   },
