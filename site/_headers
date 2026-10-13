@@ -2,3 +2,7 @@
 /starbrook/android/feed.json
   Access-Control-Allow-Origin: *
   Cache-Control: no-cache
+
+/starbrook/desktop/feed.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: no-cache
