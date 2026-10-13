@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 36,
-  "issued_at": "2026-10-13T00:46:33Z",
-  "expires_at": "2026-10-27T00:46:33Z",
+  "sequence": 37,
+  "issued_at": "2026-10-13T07:23:38Z",
+  "expires_at": "2026-10-27T07:23:38Z",
   "rings": {
     "ring0": {
       "version": "20261039",
