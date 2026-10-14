@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 5,
-  "versionName": "0.3.1-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.3.1-beta/StarBrook-0.3.1-beta-arm64.apk",
-  "sha256": "1962723249f432b4e0bf82224ac1536892e13ec2049aaf9f1a3858b1e04c9f43",
-  "size": 100128588,
-  "notes": "0.3.1-beta: polished look, site letters on tabs, Private pill, BrookShield status card, Desktop site in the menu",
+  "versionCode": 6,
+  "versionName": "0.3.2-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.3.2-beta/StarBrook-0.3.2-beta-arm64.apk",
+  "sha256": "d90bf2e22b8260c0bf3d68711f3380f643826f779b9fa7e99a38ba8ee80c0e47",
+  "size": 101259583,
+  "notes": "0.3.2-beta: BrookShield VPN on Ohio 1, 7 start-page themes, opt-in weather",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 4,
-  "published_at": "2026-10-13T23:29:29Z"
+  "previous_versionCode": 5,
+  "published_at": "2026-10-14T07:21:04Z"
 }
