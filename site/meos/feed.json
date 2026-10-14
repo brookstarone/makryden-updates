@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "product": "meos",
-  "sequence": 37,
-  "issued_at": "2026-10-13T07:23:38Z",
-  "expires_at": "2026-10-27T07:23:38Z",
+  "sequence": 39,
+  "issued_at": "2026-10-14T02:35:19Z",
+  "expires_at": "2026-10-28T02:35:19Z",
   "rings": {
     "ring0": {
-      "version": "20261039",
-      "package": "https://updates.makrydensystems.com/meos/p/315c385ac06e9a7895d9c94c/meos-20261039.meosupdate",
-      "sha256": "9d1c349cffa57ed8d2ac45c435cf9240f2fac6073da2e009acb745ae8ec28d54",
-      "size": 35509,
-      "min_from_version": "20261038",
-      "notes": "StarBrook 1.2.1: Hunt Log installs (signed pack), Kid Mode account links go to the right pages.",
+      "version": "20261040",
+      "package": "https://updates.makrydensystems.com/meos/p/2fd4c31c7748c1c35d2d9506/meos-20261040.meosupdate",
+      "sha256": "0693a1a82b50e070c895ac62335dcac138427b4a8320a8a601a27f6fb22e7831",
+      "size": 36572,
+      "min_from_version": "20261039",
+      "notes": "Terminal: typing shows up instantly and exactly once; no more boxes; colors, backspace, arrow-key history and clear work.",
       "rollout_percent": 100
     }
   },

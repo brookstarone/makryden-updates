@@ -393,6 +393,29 @@
       "public": false,
       "published_at": "2026-10-13T07:23:44Z",
       "promoted": true
+    },
+    {
+      "version": "20261040",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/2fd4c31c7748c1c35d2d9506/meos-20261040.meosupdate",
+      "min_from_version": "20261039",
+      "release_notes": "Terminal: typing shows up instantly and exactly once; no more boxes; colors, backspace, arrow-key history and clear work.",
+      "notes": "Terminal fix. Keystrokes were taking ~8 s to reach the shell: the Terminal fired a new output request every 250 ms and each one waited up to 10 s, so the browser's 6-connection limit queued every keystroke behind them (and output answered to abandoned requests was lost). Now exactly one output request is open at a time (server waits 8 s, browser 15 s), keystrokes are sent in order one request at a time, and output goes through a small screen model so carriage return, backspace, erase-line and cursor moves edit the line instead of showing as boxes. Backend decodes UTF-8 across reads and starts bash with TERM=xterm-256color. Restarts meos-rouge (open terminal sessions end).",
+      "public": false,
+      "published_at": "2026-10-14T02:35:12Z"
+    },
+    {
+      "version": "20261040",
+      "ring": "ring0",
+      "rollout": 100,
+      "path": "meos/p/2fd4c31c7748c1c35d2d9506/meos-20261040.meosupdate",
+      "min_from_version": "20261039",
+      "release_notes": "Terminal: typing shows up instantly and exactly once; no more boxes; colors, backspace, arrow-key history and clear work.",
+      "notes": "",
+      "public": false,
+      "published_at": "2026-10-14T02:35:23Z",
+      "promoted": true
     }
   ]
 }
