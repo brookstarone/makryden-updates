@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 8,
-  "versionName": "0.3.4-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.3.4-beta/StarBrook-0.3.4-beta-arm64.apk",
-  "sha256": "16c04e489a882a43163811a977facde59b0ebc4e8d0ace8aecd3143742f546f0",
-  "size": 101592085,
-  "notes": "0.3.4-beta: BrookShield works on any phone, no manual key setup",
+  "versionCode": 9,
+  "versionName": "0.3.5-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.3.5-beta/StarBrook-0.3.5-beta-arm64.apk",
+  "sha256": "ea732c4188eb1b2f07788c953209371eade640ca5ec10dfd975e44e721931f65",
+  "size": 101809621,
+  "notes": "0.3.5-beta: new StarBrook icon",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 7,
-  "published_at": "2026-10-14T23:08:17Z"
+  "previous_versionCode": 8,
+  "published_at": "2026-10-15T00:15:55Z"
 }
