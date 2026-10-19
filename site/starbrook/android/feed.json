@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 12,
-  "versionName": "0.3.8-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.3.8-beta/StarBrook-0.3.8-beta-arm64.apk",
-  "sha256": "1b7ca02182da87370c175ca3b7ba653c57dc8a653df2d637e81084e5d5dbf685",
-  "size": 101904708,
-  "notes": "StarBrook 0.3.8-beta",
+  "versionCode": 13,
+  "versionName": "0.3.9-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.3.9-beta/StarBrook-0.3.9-beta-arm64.apk",
+  "sha256": "7d9b0081f073894f56b0014707827ba6039b8abb22229c8268b7e1d65f345fc1",
+  "size": 101904428,
+  "notes": "StarBrook 0.3.9: Ask CADE fix, Makryden Docs link updated, Kid Mode daily time limit (off until a parent turns it on), split view removed.",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 11,
-  "published_at": "2026-10-19T01:10:01Z"
+  "previous_versionCode": 12,
+  "published_at": "2026-10-19T03:36:33Z"
 }
