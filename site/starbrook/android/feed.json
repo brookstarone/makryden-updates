@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 11,
-  "versionName": "0.3.7-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.3.7-beta/StarBrook-0.3.7-beta-arm64.apk",
-  "sha256": "62c8db62b676c359630f4d80fc2432621f665bb1c6272148343c20163439da0e",
+  "versionCode": 12,
+  "versionName": "0.3.8-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.3.8-beta/StarBrook-0.3.8-beta-arm64.apk",
+  "sha256": "1b7ca02182da87370c175ca3b7ba653c57dc8a653df2d637e81084e5d5dbf685",
   "size": 101904708,
-  "notes": "StarBrook 0.3.7-beta",
+  "notes": "StarBrook 0.3.8-beta",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 10,
-  "published_at": "2026-10-17T17:19:32Z"
+  "previous_versionCode": 11,
+  "published_at": "2026-10-19T01:10:01Z"
 }
