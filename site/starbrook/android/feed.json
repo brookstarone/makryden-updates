@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 17,
-  "versionName": "0.4.3-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.3-beta/StarBrook-0.4.3-beta-arm64.apk",
-  "sha256": "ddb82ee7a40a24690d5e8c6f376fced89af4f60e1e0b98264b75c54322bc00a6",
+  "versionCode": 18,
+  "versionName": "0.4.4-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.4-beta/StarBrook-0.4.4-beta-arm64.apk",
+  "sha256": "8417d5b75e557081138b85a789b4bd0917ad40be33d59bf50bed99c55750729b",
   "size": 127812988,
-  "notes": "StarBrook 0.4.3: every news story now opens in the StarBrook reader \u2014 the phone fetches each story's text on-device, so the branding stays with the story. Also fixed: the brief grey flash when returning to the browser (the start page only reloads when something actually changed).",
+  "notes": "StarBrook 0.4.4: news editions now rebuild the moment the app updates \u2014 no more stale cards, every story opens in the StarBrook reader. (Also: the grey flash on return is gone.)",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 16,
-  "published_at": "2026-10-20T19:24:00Z"
+  "previous_versionCode": 17,
+  "published_at": "2026-10-20T20:02:00Z"
 }
