@@ -1,18 +1,26 @@
 {
-  "version": "1.2.1",
-  "windows": [],
+  "version": "1.3.0",
+  "windows": [
+    {
+      "label": "for Windows 10/11 (64-bit)",
+      "url": "https://github.com/brookstarone/starbrook-releases/releases/download/desktop-1.3.0/StarBrook-Setup.exe",
+      "sha256": "b10ece3dafd4f330599fa54a94ec68ad73c7395c51df48261480b1bd09c50a02",
+      "size": 121491172
+    }
+  ],
   "linux": [
     {
       "label": "for Linux (x86-64)",
-      "url": "https://github.com/brookstarone/starbrook-releases/releases/download/desktop-1.2.1/StarBrook-1.2.1-x86_64.AppImage",
-      "sha256": "71983c24d5b91c98f2c2c44898a68d462881c6dbce7ded425ab4832d8fec7e42",
-      "size": 119081464
+      "url": "https://github.com/brookstarone/starbrook-releases/releases/download/desktop-1.3.0/StarBrook-1.3.0-x86_64.AppImage",
+      "sha256": "06a0db479097c9f7dc4cf5db38431e0f8a87f74922c95e5d38cb94743b7c089f",
+      "size": 131126464
     },
     {
       "label": "for Linux (ARM64)",
-      "url": "https://github.com/brookstarone/starbrook-releases/releases/download/desktop-1.2.1/StarBrook-1.2.1-aarch64.AppImage",
-      "sha256": "20fb67b44dc6c69a2f486faed8ac3850bc3988b9f900631c94916f8200b3505c",
-      "size": 119360008
+      "url": "https://github.com/brookstarone/starbrook-releases/releases/download/desktop-1.3.0/StarBrook-1.3.0-aarch64.AppImage",
+      "sha256": "c20451dbd65ff1b10ccf386667f360d3ff1d72764220fc9fdd5ae94bf48b958f",
+      "size": 133306888
     }
-  ]
+  ],
+  "feature_manifest": "https://github.com/brookstarone/starbrook-releases/releases/download/desktop-1.3.0/FEATURE-MANIFEST.json"
 }
