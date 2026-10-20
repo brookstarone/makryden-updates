@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 13,
-  "versionName": "0.3.9-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.3.9-beta/StarBrook-0.3.9-beta-arm64.apk",
-  "sha256": "7d9b0081f073894f56b0014707827ba6039b8abb22229c8268b7e1d65f345fc1",
-  "size": 101904428,
-  "notes": "StarBrook 0.3.9: Ask CADE fix, Makryden Docs link updated, Kid Mode daily time limit (off until a parent turns it on), split view removed.",
+  "versionCode": 14,
+  "versionName": "0.4.0-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.0-beta/StarBrook-0.4.0-beta-arm64.apk",
+  "sha256": "2c1d1e597acc6c71597032411942a7d638b2541ba0fd8e145ed04bf90d8a42e2",
+  "size": 127784251,
+  "notes": "StarBrook 0.4.0: Living Themes - 12 animated start-page themes incl. Brookstar (the Star King) and StarBrook Desert, theme motion Off/Subtle/Full in Settings. CADE Lite is off and hidden by default (toggle in Settings).",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 12,
-  "published_at": "2026-10-19T03:36:33Z"
+  "previous_versionCode": 13,
+  "published_at": "2026-10-20T07:12:04Z"
 }
