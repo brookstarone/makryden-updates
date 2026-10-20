@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 14,
-  "versionName": "0.4.0-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.0-beta/StarBrook-0.4.0-beta-arm64.apk",
-  "sha256": "2c1d1e597acc6c71597032411942a7d638b2541ba0fd8e145ed04bf90d8a42e2",
+  "versionCode": 15,
+  "versionName": "0.4.1-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.1-beta/StarBrook-0.4.1-beta-arm64.apk",
+  "sha256": "010576891e2d8e2d503bb09fd2c3c703fa28772a562b24db8c20eaeb9af0ddd3",
   "size": 127784251,
-  "notes": "StarBrook 0.4.0: Living Themes - 12 animated start-page themes incl. Brookstar (the Star King) and StarBrook Desert, theme motion Off/Subtle/Full in Settings. CADE Lite is off and hidden by default (toggle in Settings).",
+  "notes": "StarBrook 0.4.1: Living Themes now auto-play - the start page's silent loops start on their own (fix for the tap-to-play block). Autoplay stays blocked on websites; audible autoplay never granted.",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 13,
-  "published_at": "2026-10-20T07:12:04Z"
+  "previous_versionCode": 14,
+  "published_at": "2026-10-20T15:08:10Z"
 }
