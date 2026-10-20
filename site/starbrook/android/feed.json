@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 16,
-  "versionName": "0.4.2-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.2-beta/StarBrook-0.4.2-beta-arm64.apk",
-  "sha256": "be00370a0e93b0a06c857f45b9bef26120a9b34b6c2805af95525e8392830502",
+  "versionCode": 17,
+  "versionName": "0.4.3-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.3-beta/StarBrook-0.4.3-beta-arm64.apk",
+  "sha256": "ddb82ee7a40a24690d5e8c6f376fced89af4f60e1e0b98264b75c54322bc00a6",
   "size": 127812988,
-  "notes": "StarBrook 0.4.2: StarBrook News arrives \u2014 The Current, two finite editions a day (Morning/Evening) built on-device from publisher RSS. National headlines by default; add your ZIP in Settings for local news. Full-text stories open in the StarBrook reader. No AI, no accounts, no tracking.",
+  "notes": "StarBrook 0.4.3: every news story now opens in the StarBrook reader \u2014 the phone fetches each story's text on-device, so the branding stays with the story. Also fixed: the brief grey flash when returning to the browser (the start page only reloads when something actually changed).",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 15,
-  "published_at": "2026-10-20T18:07:00Z"
+  "previous_versionCode": 16,
+  "published_at": "2026-10-20T19:24:00Z"
 }
