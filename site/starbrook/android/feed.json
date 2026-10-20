@@ -5,7 +5,7 @@
   "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.5-beta/StarBrook-0.4.5-beta-arm64.apk",
   "sha256": "5e5d0993487470fb94963745989f34d0b449635f51a025523cf2fd615dc4d87f",
   "size": 127817084,
-  "notes": "StarBrook 0.4.5: new opt-in Fleet reporting \u2014 Settings \u2192 Fleet lets your phone tell your MEOS/Rouge which version it's running, once a day, so the Plant's Fleet section can show it. Off by default; a random ID per install, nothing else leaves the phone.",
+  "notes": "StarBrook 0.4.5: news editions now rebuild the moment the app updates \u2014 no more stale cards. Bug fixes and polish.",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
   "previous_versionCode": 18,
   "published_at": "2026-10-20T21:58:00Z"
