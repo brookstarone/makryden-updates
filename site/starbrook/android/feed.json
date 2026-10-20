@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 15,
-  "versionName": "0.4.1-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.1-beta/StarBrook-0.4.1-beta-arm64.apk",
-  "sha256": "010576891e2d8e2d503bb09fd2c3c703fa28772a562b24db8c20eaeb9af0ddd3",
-  "size": 127784251,
-  "notes": "StarBrook 0.4.1: Living Themes now auto-play - the start page's silent loops start on their own (fix for the tap-to-play block). Autoplay stays blocked on websites; audible autoplay never granted.",
+  "versionCode": 16,
+  "versionName": "0.4.2-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.2-beta/StarBrook-0.4.2-beta-arm64.apk",
+  "sha256": "be00370a0e93b0a06c857f45b9bef26120a9b34b6c2805af95525e8392830502",
+  "size": 127812988,
+  "notes": "StarBrook 0.4.2: StarBrook News arrives \u2014 The Current, two finite editions a day (Morning/Evening) built on-device from publisher RSS. National headlines by default; add your ZIP in Settings for local news. Full-text stories open in the StarBrook reader. No AI, no accounts, no tracking.",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 14,
-  "published_at": "2026-10-20T15:08:10Z"
+  "previous_versionCode": 15,
+  "published_at": "2026-10-20T18:07:00Z"
 }
