@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 23,
-  "versionName": "0.4.9-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.9-beta/StarBrook-0.4.9-beta-arm64.apk",
-  "sha256": "bb4dd53afbd158cb7c6e3c42e44a691ab72e1e15aeff868b32945b67a8a1bebb",
+  "versionCode": 24,
+  "versionName": "0.4.10-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.10-beta/StarBrook-0.4.10-beta-arm64.apk",
+  "sha256": "9689f086fc4d6e4cacce48d49a14983ad4ebc278e37260ca52c48cb4bb21364d",
   "size": 128329374,
-  "notes": "StarBrook 0.4.9: Shelf sync is complete \u2014 sign in and your saved stories follow you to every device, with sign-out in Settings. New Trail Report shows your weekly blocked trackers and ads. Bug fixes, including a browsing fix.",
+  "notes": "StarBrook 0.4.10: Crash fixes and stability improvements. Kid Mode sign-in screen fixed. Settings cleaned up.",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 22,
-  "published_at": "2026-10-21T21:24:00Z"
+  "previous_versionCode": 23,
+  "published_at": "2026-10-21T23:57:58Z"
 }
