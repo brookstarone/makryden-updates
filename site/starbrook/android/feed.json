@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 21,
-  "versionName": "0.4.7-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.7-beta/StarBrook-0.4.7-beta-arm64.apk",
-  "sha256": "221641d2607e5d0b6555fef1e5a839499e6a29c08b9a9a232268d8ac7d8ceff4",
-  "size": 127854075,
-  "notes": "StarBrook 0.4.7: Shelf \u2014 save stories from The Current to your own on-device library. Star Search \u2014 a new StarBrook-branded search with a light Constellation results page, now the default on fresh installs. Plus bug fixes and polish.",
+  "versionCode": 22,
+  "versionName": "0.4.8-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.8-beta/StarBrook-0.4.8-beta-arm64.apk",
+  "sha256": "c053e5bf310a8dd704e119353ee249b37f6f9d5f7dfdb85b2767962440ba881d",
+  "size": 128317086,
+  "notes": "StarBrook 0.4.8: Shelf sync \u2014 sign in with your Makryden account and your saved stories follow you to every device. Plus the new Makryden home at makrydensystems.com/account. Bug fixes and polish.",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 20,
-  "published_at": "2026-10-21T17:15:00Z"
+  "previous_versionCode": 21,
+  "published_at": "2026-10-21T19:17:00Z"
 }
