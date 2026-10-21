@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 22,
-  "versionName": "0.4.8-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.8-beta/StarBrook-0.4.8-beta-arm64.apk",
-  "sha256": "c053e5bf310a8dd704e119353ee249b37f6f9d5f7dfdb85b2767962440ba881d",
-  "size": 128317086,
-  "notes": "StarBrook 0.4.8: Shelf sync \u2014 sign in with your Makryden account and your saved stories follow you to every device. Plus the new Makryden home at makrydensystems.com/account. Bug fixes and polish.",
+  "versionCode": 23,
+  "versionName": "0.4.9-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.9-beta/StarBrook-0.4.9-beta-arm64.apk",
+  "sha256": "bb4dd53afbd158cb7c6e3c42e44a691ab72e1e15aeff868b32945b67a8a1bebb",
+  "size": 128329374,
+  "notes": "StarBrook 0.4.9: Shelf sync is complete \u2014 sign in and your saved stories follow you to every device, with sign-out in Settings. New Trail Report shows your weekly blocked trackers and ads. Bug fixes, including a browsing fix.",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 21,
-  "published_at": "2026-10-21T19:17:00Z"
+  "previous_versionCode": 22,
+  "published_at": "2026-10-21T21:24:00Z"
 }
