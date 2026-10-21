@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 20,
-  "versionName": "0.4.6-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.6-beta/StarBrook-0.4.6-beta-arm64.apk",
-  "sha256": "9e167dc566ec35cbcd4171e0c9e6ec25d9b296fd8671c1533666029265ca19a6",
-  "size": 127817084,
-  "notes": "StarBrook 0.4.6: the Updates section gains an opt-in \"Share version with update server\" toggle for people running their own update infrastructure. Bug fixes and polish.",
+  "versionCode": 21,
+  "versionName": "0.4.7-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.7-beta/StarBrook-0.4.7-beta-arm64.apk",
+  "sha256": "221641d2607e5d0b6555fef1e5a839499e6a29c08b9a9a232268d8ac7d8ceff4",
+  "size": 127854075,
+  "notes": "StarBrook 0.4.7: Shelf \u2014 save stories from The Current to your own on-device library. Star Search \u2014 a new StarBrook-branded search with a light Constellation results page, now the default on fresh installs. Plus bug fixes and polish.",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 19,
-  "published_at": "2026-10-21T01:36:00Z"
+  "previous_versionCode": 20,
+  "published_at": "2026-10-21T17:15:00Z"
 }
