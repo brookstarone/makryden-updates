@@ -1,0 +1,17 @@
+[Unit]
+Description=Rouge Plant — StarBrook CI watcher
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node /opt/meos/system/rouge/services/starbrook-ci-watch.js
+Restart=always
+RestartSec=30
+# Optional: raise the GitHub API rate limit
+# Environment=GITHUB_TOKEN=ghp_xxx
+# Optional: override the state file path
+# Environment=STARBROOK_CI_FILE=/opt/meos/system/rouge/state/starbrook-ci.json
+
+[Install]
+WantedBy=multi-user.target
