@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 34,
-  "versionName": "0.4.20-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.20-beta/StarBrook-0.4.20-beta-arm64.apk",
-  "sha256": "c16aa270bbaac4bcf2d556cc35e34c73715632ef25005f53a83e669c0f2061b2",
+  "versionCode": 35,
+  "versionName": "0.4.21-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.21-beta/StarBrook-0.4.21-beta-arm64.apk",
+  "sha256": "e490cb7585a9b407f197dbd134624a5f126a12af97f7fa469745137f6f21060a",
   "size": 128329374,
-  "notes": "StarBrook 0.4.20: Meet Northstar \u2014 our private search engine with a new name, working search, and the Makryden Promise: no tracking, ever.",
+  "notes": "StarBrook 0.4.21: Northstar search text cleanup.",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 33,
-  "published_at": "2026-10-22T19:07:20Z"
+  "previous_versionCode": 34,
+  "published_at": "2026-10-22T19:24:05Z"
 }
