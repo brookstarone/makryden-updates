@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 26,
-  "versionName": "0.4.12-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.12-beta/StarBrook-0.4.12-beta-arm64.apk",
-  "sha256": "bbdd64a1ea45bd0b8536c69dbec0d1b553dbd644f7b87ae5c730c90c8b481685",
+  "versionCode": 27,
+  "versionName": "0.4.13-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.13-beta/StarBrook-0.4.13-beta-arm64.apk",
+  "sha256": "787974f86feeaa4f0f99e0fe80bc9fba4da97b4bf1002924bf9bca13e030c7f8",
   "size": 128329374,
-  "notes": "StarBrook 0.4.12: Crash fix — the Trail Report feature has been removed while we rebuild it properly. Everything else works.",
+  "notes": "StarBrook 0.4.13: Fixed the Shelf crash. Your saved stories open cleanly again.",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 25,
-  "published_at": "2026-10-22T02:22:14Z"
+  "previous_versionCode": 26,
+  "published_at": "2026-10-22T02:47:59Z"
 }
