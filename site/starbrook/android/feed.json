@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 31,
-  "versionName": "0.4.17-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.17-beta/StarBrook-0.4.17-beta-arm64.apk",
-  "sha256": "b92f1951ae22f4f657152ad73fdeebb53a980715b061a63e53ec8eab5fe3710b",
+  "versionCode": 32,
+  "versionName": "0.4.18-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.18-beta/StarBrook-0.4.18-beta-arm64.apk",
+  "sha256": "3317f19ec78021a3ad7e2162eadec6223c1b8bcb58dba93135bd20b7c837bfe0",
   "size": 128329374,
-  "notes": "StarBrook 0.4.17: New organized menu \u2014 every option explains itself. News now shows all your bundles. Trail stats are back.",
+  "notes": "StarBrook 0.4.18: Shelf is now in the menu \u2014 your saved stories, one tap away. New users get a quick tour on first launch.",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 30,
-  "published_at": "2026-10-22T15:55:44Z"
+  "previous_versionCode": 31,
+  "published_at": "2026-10-22T17:12:14Z"
 }
