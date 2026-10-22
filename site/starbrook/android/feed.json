@@ -1,12 +1,12 @@
 {
   "product": "starbrook-android",
-  "versionCode": 35,
-  "versionName": "0.4.21-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.21-beta/StarBrook-0.4.21-beta-arm64.apk",
-  "sha256": "e490cb7585a9b407f197dbd134624a5f126a12af97f7fa469745137f6f21060a",
+  "versionCode": 36,
+  "versionName": "0.4.22-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.22-beta/StarBrook-0.4.22-beta-arm64.apk",
+  "sha256": "d7f83eefea1fba3c422cceeb24a45468e124a572d5d12d9a121ba1e5f96d123e",
   "size": 128329374,
-  "notes": "StarBrook 0.4.21: Northstar search text cleanup.",
+  "notes": "StarBrook 0.4.22: Northstar search cleanup and text fixes.",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 34,
-  "published_at": "2026-10-22T19:24:05Z"
+  "previous_versionCode": 35,
+  "published_at": "2026-10-22T20:45:26Z"
 }
