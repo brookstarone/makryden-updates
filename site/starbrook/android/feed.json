@@ -1,11 +1,11 @@
 {
   "product": "starbrook-android",
-  "versionCode": 38,
-  "versionName": "0.4.24-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.24-beta/StarBrook-0.4.24-beta-arm64.apk",
-  "sha256": "4dcab6bde61f3ca0f2bdc474cde937314751dbe4999d796b2ebc990020545c08",
-  "notes": "StarBrook 0.4.24: Northstar search has a fresh new look, plus image results, related searches, and a Safe Search switch.",
+  "versionCode": 39,
+  "versionName": "0.4.25-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.25-beta/StarBrook-0.4.25-beta-arm64.apk",
+  "sha256": "82a7cb8f3da2c1fff28d74fb1ded68f8dd5fef6a41818ab94fa0251f7e72bd8a",
+  "notes": "StarBrook 0.4.25: Image search works again, photo search now reads text in your pictures, and Safe Search remembers your choice.",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 37,
-  "published_at": "2026-10-26T14:05:54Z"
+  "previous_versionCode": 38,
+  "published_at": "2026-10-26T16:57:37Z"
 }
