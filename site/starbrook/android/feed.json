@@ -1,11 +1,11 @@
 {
   "product": "starbrook-android",
-  "versionCode": 40,
-  "versionName": "0.4.26-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.26-beta/StarBrook-0.4.26-beta-arm64.apk",
-  "sha256": "dd667ae8001145206bb384720440e32abab38e11138cd3031976e25665242565",
-  "notes": "StarBrook 0.4.26: Image cards are easier to read, photo search now identifies what's in your picture, and image search covers the wider web.",
+  "versionCode": 41,
+  "versionName": "0.4.27-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.27-beta/StarBrook-0.4.27-beta-arm64.apk",
+  "sha256": "691f54a326dfd01c5de740e521491dacc4bcf58a4b5013794dc2bba322ea5aa7",
+  "notes": "StarBrook 0.4.27: Your weekly Trail Report now sends itself automatically, with your real blocked-tracker counts.",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 39,
-  "published_at": "2026-10-27T05:27:59Z"
+  "previous_versionCode": 40,
+  "published_at": "2026-10-27T14:04:06Z"
 }
