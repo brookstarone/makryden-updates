@@ -1,11 +1,11 @@
 {
   "product": "starbrook-android",
-  "versionCode": 39,
-  "versionName": "0.4.25-beta",
-  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.25-beta/StarBrook-0.4.25-beta-arm64.apk",
-  "sha256": "82a7cb8f3da2c1fff28d74fb1ded68f8dd5fef6a41818ab94fa0251f7e72bd8a",
-  "notes": "StarBrook 0.4.25: Image search works again, photo search now reads text in your pictures, and Safe Search remembers your choice.",
+  "versionCode": 40,
+  "versionName": "0.4.26-beta",
+  "url": "https://github.com/brookstarone/starbrook-releases/releases/download/v0.4.26-beta/StarBrook-0.4.26-beta-arm64.apk",
+  "sha256": "dd667ae8001145206bb384720440e32abab38e11138cd3031976e25665242565",
+  "notes": "StarBrook 0.4.26: Image cards are easier to read, photo search now identifies what's in your picture, and image search covers the wider web.",
   "signer_sha256": "52a9cf6e4ffd0d35dea41e84db21347931f59ea60c2a1ab351b09361fd29f7e1",
-  "previous_versionCode": 38,
-  "published_at": "2026-10-26T16:57:37Z"
+  "previous_versionCode": 39,
+  "published_at": "2026-10-27T05:27:59Z"
 }
